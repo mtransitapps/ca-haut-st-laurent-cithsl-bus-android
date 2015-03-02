@@ -3,14 +3,14 @@ Title: Bus CIT Haut-St-Laurent (MonTransit)
 Short description: Informations des bus CIT Haut-St-Laurent pour MonTransit BETA.
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 1 Janvier 2012 au 1 Juillet 2020.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+Cette application ajoute les informations des bus CIT Haut-Saintt-Laurent à MonTransit BETA.
 
-Cette application ajoute les informations des bus CIT Haut-St-Laurent à MonTransit BETA.
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Le CIT Haut-Saint-Laurent dessert Huntington, Ormstown, Godmanchester, Howick, Très-Saint-Sacrement, Sainte-Martine et Mercier.
 
