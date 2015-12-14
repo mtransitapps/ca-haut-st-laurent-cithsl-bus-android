@@ -5,7 +5,7 @@ Autobus CIT Haut-Saint-Laurent pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
-Horaires du 25 décembre 2014 au 1 juillet 2020.
+Horaires du 1 mars 2015 au 1 juillet 2020.
 ----------
 Full description:
 Cette application ajoute les informations de l'autobus CIT Haut-Saintt-Laurent à MonTransit.
