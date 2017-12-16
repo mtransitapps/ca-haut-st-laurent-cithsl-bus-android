@@ -5,7 +5,7 @@ CIT Haut-Saint-Laurent bus for MonTransit
 Schedule…
 ----------
 What's new in this version?:
-Schedule from November 14, 2016 to December 19, 2017.
+Schedule from December 20, 2017 to July 1, 2020.
 ----------
 Full description:
 This application adds CIT Haut-Saint-Laurent bus information to MonTransit.
