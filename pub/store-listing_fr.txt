@@ -1,16 +1,19 @@
-Title: Bus CIT Haut-St-Laurent - Mon…
+Title: Bus RTM (CIT) Haut-St-Laurent - Mon…
 ----------
 Short description:
-Autobus CIT Haut-Saint-Laurent pour MonTransit.
-Horaires…
+Autobus RTM (CIT) Haut-Saint-Laurent pour MonTransit.
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 25 janvier 2018 au 1 juillet 2020.
+Tweets de @exo_SO_HSL.
 ----------
 Full description:
-Cette application ajoute les informations de l'autobus CIT Haut-Saintt-Laurent à MonTransit.
+Cette application ajoute les informations de l'autobus RTM (CIT) Haut-Saint-Laurent à MonTransit.
 
-Le CIT Haut-Saint-Laurent dessert Huntington, Ormstown, Godmanchester, Howick, Très-Saint-Sacrement, Sainte-Martine et Mercier.
+Cette application contient les horaires et les dernières nouvelles de @exo_SO_HSL sur Twitter.
+
+Le RTM (CIT) Haut-Saint-Laurent dessert Huntington, Ormstown, Godmanchester, Howick, Très-Saint-Sacrement, Sainte-Martine et Mercier.
 
 Une fois cette application installée, l'application MonTransit affichera les informations de l'autobus (horaires ...).
 
@@ -24,4 +27,7 @@ https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-haut-st-laurent-cithsl-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Haut-Saint-Laurent.
+Cette application n'est pas associée au Réseau de Transport Métropolitain (AMT) et RTM (CIT) Haut-Saint-Laurent.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles de Twitter.
