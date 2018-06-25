@@ -5,7 +5,7 @@ RTM (CIT) Haut-Saint-Laurent bus for MonTransit
 Schedules. News.
 ----------
 What's new in this version?:
-Schedule from June 24, 2018 to August 18, 2018.
+Schedule from June 19, 2018 to August 18, 2018.
 Tweets from @exo_SO_HSL
 ----------
 Full description:

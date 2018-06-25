@@ -5,7 +5,7 @@ Autobus RTM (CIT) Haut-Saint-Laurent pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 24 juin 2018 au 18 août 2018.
+Horaires du 19 juin 2018 au 18 août 2018.
 Tweets de @exo_SO_HSL.
 ----------
 Full description:
