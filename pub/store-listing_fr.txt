@@ -1,19 +1,20 @@
-Title: Bus RTM (CIT) Haut-St-Laurent - MonTransit
+Title: Bus exo Haut-St-Laurent - MonTransit
 ----------
 Short description:
-Autobus RTM (CIT) Haut-Saint-Laurent pour MonTransit.
+Autobus exo Haut-Saint-Laurent pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Horaires du 19 juin 2018 au 18 août 2018.
 Tweets de @exo_SO_HSL.
 ----------
 Full description:
-Cette application ajoute les informations de l'autobus RTM (CIT) Haut-Saint-Laurent à MonTransit.
+Cette application ajoute les informations de l'autobus exo Haut-Saint-Laurent à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de @exo_SO_HSL sur Twitter.
 
-Le RTM (CIT) Haut-Saint-Laurent dessert Huntington, Ormstown, Godmanchester, Howick, Très-Saint-Sacrement, Sainte-Martine et Mercier.
+exo Haut-Saint-Laurent dessert Huntington, Ormstown, Godmanchester, Howick, Très-Saint-Sacrement, Sainte-Martine et Mercier au Québec, Canada.
 
 Une fois cette application installée, l'application MonTransit affichera les informations de l'autobus (horaires ...).
 
@@ -21,13 +22,16 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-haut-st-laurent-cithsl-bus-android
 
-Cette application n'est pas associée au Réseau de Transport Métropolitain (AMT) et RTM (CIT) Haut-Saint-Laurent.
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Haut-Saint-Laurent.
+
+exo Haut-Saint-Laurent était précédemment connu sous le nom de RTM Secteur Haut-Saint-Laurent et CIT Haut-Saint-Laurent.
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
 - Autres: requis pour lire les nouvelles de Twitter.
