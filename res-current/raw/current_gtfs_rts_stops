@@ -7,6 +7,7 @@
 79005,'79005','Châteauguay (Boul. St-Jean-Baptiste / Pétr',45.367843,-73.710621
 79006,'79006','Ste-Martine (Route 138 / Sylvestre)',45.244417,-73.805688
 79007,'79007','Ste-Martine (Route 138 / Primeau)',45.251324,-73.798277
+79008,'79008','Ormstown (Route 138 / École CVR)',45.124457,-74.01387
 79009,'79009','Ormstown (Route 138 / Bridge)',45.120181,-73.98865
 79010,'79010','Ormstown (Route 138 / Montée Brysson)',45.147372,-73.931076
 79011,'79011','Très St-Sacrement (Route 138 / Rang Du 40)',45.158236,-73.924392
@@ -115,6 +116,7 @@
 79115,'79115','Newman / Léger',45.441199,-73.619624
 79116,'79116','Newman / Carrefour Angrignon (LaSalle)',45.447271,-73.61007
 79117,'79117','Ste-Martine (Route 138 / Desrochers)',45.24452,-73.805869
+79118,'79118','Lapierre / Cégep André-Laurendeau',45.435064,-73.605053
 79119,'79119','St-Jean-Baptiste / Ste-Marguerite (Châteauguay)',45.355507,-73.717582
 79120,'79120','St-Jean-Baptiste / Lauzon (Châteauguay)',45.358766,-73.715579
 79121,'79121','St-Jean-Baptiste / Marcel (Châteauguay)',45.362459,-73.713512
