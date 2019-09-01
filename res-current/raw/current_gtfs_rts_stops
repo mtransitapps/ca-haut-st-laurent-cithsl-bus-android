@@ -1,4 +1,4 @@
-16000,'16000','Terminus Mansfield Quai 6',45.497972,-73.564192
+16001,'16001','Terminus Mansfield Quai 4',45.498306,-73.564724
 78045,'78045','St-Jean-Baptiste / Parc Ouest',45.35478,-73.718151
 78046,'78046','St-Jean-Baptiste / Ste-Marguerite',45.355492,-73.717611
 78087,'78087','St-Jean-Baptiste / St-Julien',45.354992,-73.718103
@@ -144,15 +144,10 @@
 79145,'79145','L’Église / St-Denis',45.308069,-73.736638
 79147,'79147','Reid / Plaines',45.307207,-73.738328
 79148,'79148','Reid / Chênes',45.307779,-73.740166
-79149,'79149','Chênes / Sapins',45.30621,-73.741255
-79150,'79150','Chênes / Ormes',45.306036,-73.744371
 79152,'79152','Ormes / Noyers',45.303065,-73.746576
 79153,'79153','Hètres / Desparois',45.30261,-73.747905
 79154,'79154','St-Joseph / Lalonde',45.302191,-73.749327
 79155,'79155','Manoir Du Bel-Âge',45.303921,-73.749345
-79156,'79156','Érables / St-Joseph',45.30657,-73.746542
-79157,'79157','St-Joseph / Résidence George Prud’Hom',45.307789,-73.745757
-79158,'79158','Marleau / Vervais',45.310689,-73.746909
 79160,'79160','Marleau / Lièvre',45.313354,-73.749337
 79161,'79161','Marleau / Rossignols',45.317155,-73.753264
 79163,'79163','Perdrix / Lièvres',45.317594,-73.74703
@@ -166,17 +161,24 @@
 79172,'79172','Brome / Beaupré',45.341883,-73.741064
 79173,'79173','Beaupré / Passage Piétonnier',45.342454,-73.739064
 79174,'79174','Beaupré / Beauchemin',45.342516,-73.734565
-79175,'79175','Beaupré / Passage Piétonnier',45.342653,-73.739014
-79176,'79176','Brome / Beaupré',45.342333,-73.74126
-79177,'79177','Batiscan / Devant École Des Bons-Vents',45.342005,-73.746126
-79178,'79178','Batiscan / Édouard-Laberge',45.340923,-73.746421
 79180,'79180','Édouard-Laberge / Beauchemin',45.338937,-73.741869
 79181,'79181','Beauchemin / Beloeil',45.339817,-73.736969
 79182,'79182','IGA Reid & Gadoua',45.321658,-73.739377
-79183,'79183','Josime-Pelletier / St-Jean-Baptiste',45.3202,-73.739652
 79184,'79184','Centre Régional De Châteauguay',45.358899,-73.727195
 79185,'79185','Anjou / Maple',45.360471,-73.732386
 79186,'79186','CLSC De Châteauguay',45.358109,-73.73721
 79187,'79187','Hôpital Anna-Laberge',45.345953,-73.764394
 79188,'79188','Wal-Mart Châteauguay',45.343502,-73.762787
 79190,'79190','St-Jean-Baptiste / Parkview',45.348769,-73.722244
+79191,'79191','École Secondaire Louis-Philippe-Paré',45.344863,-73.765352
+79192,'79192','Édouard-Laberge / Henri-Ladouceur',45.340893,-73.748795
+79193,'79193','Édouard-Laberge / Beaupré',45.340249,-73.7429
+79194,'79194','Clinique Médicale Mercier',45.32789,-73.734191
+79195,'79195','Reid / St-Joseph',45.309288,-73.744852
+79196,'79196','St-Joseph / St-Laurent',45.308732,-73.745461
+79197,'79197','Résidence George Prud''Homme',45.307643,-73.745992
+79198,'79198','St-Joseph / Cèdres',45.305815,-73.747036
+79199,'79199','Cèdres / Ormes',45.30509,-73.745303
+79200,'79200','William / Bonnier',45.307619,-73.748749
+79201,'79201','William / Vervais',45.309137,-73.750282
+79202,'79202','Vervais / Marleau',45.310642,-73.747083
