@@ -9,7 +9,7 @@
 77508,'77508','Newman / Trinitaires',45.447219,-73.610059
 77509,'77509','Newman / Léger',45.44129,-73.618868
 77655,'77655','Labatt / Airlie',45.424182,-73.645618
-77657,'77657','Newman / 90e Av.',45.428988,-73.638993
+77657,'77657','Newman / 90e Av',45.428988,-73.638993
 78045,'78045','St-Jean-Baptiste / Parc Ouest',45.354826,-73.718025
 78046,'78046','St-Jean-Baptiste / Ste-Marguerite',45.355492,-73.717611
 78087,'78087','St-Jean-Baptiste / St-Julien',45.354882,-73.718239
@@ -19,8 +19,8 @@
 78125,'78125','St-Jean-Baptiste / St-Francis',45.368313,-73.710017
 78126,'78126','St-Jean-Baptiste / St-Francis',45.367864,-73.710515
 78132,'78132','St-Jean-Baptiste / Anjou',45.358746,-73.715664
-78135,'78135','St-Jean-Baptiste / Stat. Incitatif',45.365937,-73.711689
-78136,'78136','St-Jean-Baptiste / Devant Le Stat. Incitatif',45.365636,-73.711613
+78135,'78135','St-Jean-Baptiste / Stat Incitatif',45.365937,-73.711689
+78136,'78136','St-Jean-Baptiste / Devant Le Stat Incitatif',45.365636,-73.711613
 78179,'78179','St-Jean-Baptiste / Marcel',45.362459,-73.713495
 78180,'78180','St-Jean-Baptiste / Dunver',45.362695,-73.713615
 78275,'78275','Route 138 / Devant Le #1455',45.399543,-73.68314
@@ -28,7 +28,7 @@
 78445,'78445','St-Jean-Baptiste / Anjou',45.357973,-73.716335
 78559,'78559','Newman / Shevchenko',45.432363,-73.630467
 78561,'78561','Newman / Guy-Bouchard',45.446483,-73.611587
-78563,'78563','Newman / 90e Av.',45.429398,-73.638512
+78563,'78563','Newman / 90e Av',45.429398,-73.638512
 78564,'78564','Newman / Senkus',45.44376,-73.615194
 78565,'78565','Newman / Lapierre',45.43924,-73.622715
 78567,'78567','Newman / Thierry',45.436053,-73.626114
@@ -176,7 +176,7 @@
 79194,'79194','St-Jean-Baptiste / Clinique Médicale Mercier',45.32789,-73.734191
 79195,'79195','Reid / St-Joseph',45.309288,-73.744852
 79196,'79196','St-Joseph / St-Laurent',45.308732,-73.745461
-79197,'79197','St-Joseph / Devant Résidence G.-Prud''Homme',45.307643,-73.745992
+79197,'79197','St-Joseph / Devant Résidence G-Prud''Homme',45.307643,-73.745992
 79198,'79198','St-Joseph / Cèdres',45.305815,-73.747036
 79199,'79199','Cèdres / Ormes',45.30509,-73.745303
 79200,'79200','William / Bonnier',45.307619,-73.748749
