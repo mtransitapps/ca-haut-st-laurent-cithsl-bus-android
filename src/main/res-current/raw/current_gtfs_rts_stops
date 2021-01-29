@@ -79,7 +79,7 @@
 79054,'79054','St-Joseph / Demers',45.240644,-73.809783
 79055,'79055','St-Joseph / Ferme',45.241844,-73.807796
 79056,'79056','St-Joseph / Copains',45.249136,-73.799122
-79057,'79057','St-Jean-Baptiste / Josime-Pelletier',45.320129,-73.739712
+79057,'79057','St-Jean-Baptiste / Josime-Pelletier',45.319991,-73.73972
 79058,'79058','St-Jean-Baptiste / Bourdeau',45.315007,-73.742775
 79059,'79059','St-Jean-Baptiste Est / Domaine',45.265408,-73.783932
 79060,'79060','St-Joseph / Station',45.252709,-73.797976
@@ -122,15 +122,10 @@
 79145,'79145','L’Église / St-Denis',45.308069,-73.736638
 79147,'79147','Reid / Plaines',45.307207,-73.738328
 79148,'79148','Reid / Chênes',45.307779,-73.740166
-79149,'79149','Chênes / Sapins',45.30621,-73.741255
-79150,'79150','Chênes / Ormes',45.306036,-73.744371
 79152,'79152','Ormes / Noyers',45.303065,-73.746576
 79153,'79153','Hètres / Desparois',45.30261,-73.747905
 79154,'79154','St-Joseph / Lalonde',45.302191,-73.749327
 79155,'79155','St-Jean-Baptiste / Manoir Du Bel-Âge',45.303921,-73.749345
-79156,'79156','Érables / St-Joseph',45.30657,-73.746542
-79157,'79157','St-Joseph / St-Clément',45.307789,-73.745757
-79158,'79158','Marleau / Vervais',45.310689,-73.746909
 79160,'79160','Marleau / Lièvre',45.313354,-73.749337
 79161,'79161','Marleau / Rossignols',45.317155,-73.753264
 79163,'79163','Perdrix / Lièvre',45.317594,-73.74703
@@ -146,8 +141,12 @@
 79174,'79174','Beaupré / Beaulac',45.342516,-73.734565
 79180,'79180','Édouard-Laberge / Beauchemin',45.338937,-73.741869
 79181,'79181','Beauchemin / Beloeil',45.339817,-73.736969
-79182,'79182','St-Jean-Baptiste / IGA Reid-Boursier',45.321658,-73.739377
+79182,'79182','St-Jean-Baptiste / IGA Reid-Boursier',45.321244,-73.738957
 79184,'79184','Centre Régional De Châteauguay',45.358899,-73.727195
+79185,'79185','Anjou / Maple',45.360471,-73.732386
+79186,'79186','Verdure / Claude-Pitre (CLSC De Châteauguay)',45.358826,-73.736704
+79187,'79187','Hôpital Anna-Laberge',45.345953,-73.764394
+79188,'79188','Wal-Mart Châteauguay',45.343502,-73.762787
 79190,'79190','St-Jean-Baptiste / Parkview',45.348769,-73.722244
 79191,'79191','École Louis-Philippe-Paré',45.344887,-73.765256
 79192,'79192','Édouard-Laberge / Henri-Ladouceur',45.340893,-73.748795
