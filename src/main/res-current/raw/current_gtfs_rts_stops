@@ -1,4 +1,4 @@
-16001,'16001','Terminus Mansfield Quai 4',45.498306,-73.564724
+16001,'16001','Term Mansfield Q:4',45.498306,-73.564724
 76557,'76557','Newman / Labatt',45.42728,-73.644449
 77501,'77501','Labatt / Newman',45.427072,-73.644425
 77503,'77503','Newman / Dollard',45.430096,-73.63564
@@ -10,7 +10,7 @@
 77509,'77509','Newman / Léger',45.44129,-73.618868
 77655,'77655','Labatt / Airlie',45.424182,-73.645618
 77657,'77657','Newman / 90e Av',45.428988,-73.638993
-78043,'78043','Centre Régional De Châteauguay',45.358841,-73.727356
+78043,'78043','Ctr Régional De Châteauguay',45.358841,-73.727356
 78045,'78045','St-Jean-Baptiste / Parc Ouest',45.354826,-73.718025
 78046,'78046','St-Jean-Baptiste / Ste-Marguerite',45.355492,-73.717611
 78087,'78087','St-Jean-Baptiste / St-Julien',45.354882,-73.718239
@@ -24,10 +24,10 @@
 78135,'78135','St-Jean-Baptiste / Stat Incitatif',45.365937,-73.711689
 78136,'78136','St-Jean-Baptiste / Devant Le Stat Incitatif',45.365636,-73.711613
 78161,'78161','Verdure / Claude-Pitre (CLSC Châteauguay)',45.358822,-73.736715
-78168,'78168','Stationnement Incitatif Châteauguay - Quai 1',45.365445,-73.711119
+78168,'78168','P+R Châteauguay - Q:1',45.365445,-73.711119
 78179,'78179','St-Jean-Baptiste / Marcel',45.362459,-73.713495
 78180,'78180','St-Jean-Baptiste / Dunver',45.362695,-73.713615
-78245,'78245','Brisebois / Centre Hospitalier A-Laberge',45.346291,-73.76591
+78245,'78245','Brisebois / Ctr Hospitalier A-Laberge',45.346291,-73.76591
 78275,'78275','Route 138 / Devant Le #1455',45.399543,-73.68314
 78315,'78315','Newman / Lafleur',45.425473,-73.649156
 78445,'78445','St-Jean-Baptiste / Anjou',45.357973,-73.716335
@@ -45,7 +45,7 @@
 78885,'78885','Faubourg Châteauguay (Wal-Mart)',45.343544,-73.762741
 78898,'78898','Route 138 / Devant Le #1500',45.376988,-73.7052
 79000,'79000','St-Jean-Baptiste Ouest / Major',45.23324,-73.811663
-79001,'79001','St-Joseph / Station',45.252466,-73.797829
+79001,'79001','St-Joseph / Ston',45.252466,-73.797829
 79002,'79002','St-Jean-Baptiste Est / Domaine',45.265211,-73.783974
 79006,'79006','St-Joseph / Sylvestre',45.244417,-73.805688
 79007,'79007','St-Joseph / Primeau',45.251324,-73.798277
@@ -61,7 +61,7 @@
 79025,'79025','Côté / Amqui',45.338903,-73.731396
 79026,'79026','Côté / Mercure',45.339282,-73.733582
 79036,'79036','St-Joseph / Desrochers',45.24687,-73.803186
-79037,'79037','St-Jean-Baptiste Est / Place Raquepas',45.261776,-73.788616
+79037,'79037','St-Jean-Baptiste Est / Pl Raquepas',45.261776,-73.788616
 79038,'79038','St-Jean-Baptiste Est / Armand',45.26352,-73.786257
 79039,'79039','St-Jean-Baptiste / Lalonde',45.302385,-73.750579
 79040,'79040','St-Jean-Baptiste / Sauvé',45.30473,-73.749044
@@ -72,7 +72,7 @@
 79047,'79047','St-Jean-Baptiste / Lévis',45.317411,-73.740903
 79048,'79048','St-Jean-Baptiste / Lévis',45.317959,-73.741056
 79049,'79049','Côté / St-Jean-Baptiste',45.338419,-73.728565
-79050,'79050','Terminus Angrignon Quai 18',45.446533,-73.605252
+79050,'79050','Term Angrignon Q:18',45.446533,-73.605252
 79051,'79051','Beauchemin / Beaupré',45.342624,-73.733782
 79052,'79052','Beauchemin / Beloeil',45.339843,-73.736682
 79053,'79053','Beloeil / Mercure',45.338552,-73.736325
@@ -82,14 +82,14 @@
 79057,'79057','St-Jean-Baptiste / Josime-Pelletier',45.319991,-73.73972
 79058,'79058','St-Jean-Baptiste / Bourdeau',45.315007,-73.742775
 79059,'79059','St-Jean-Baptiste Est / Domaine',45.265408,-73.783932
-79060,'79060','St-Joseph / Station',45.252709,-73.797976
+79060,'79060','St-Joseph / Ston',45.252709,-73.797976
 79061,'79061','St-Jean-Baptiste Ouest / Major',45.23328,-73.811983
 79082,'79082','Mercure / Beloeil',45.338592,-73.736163
 79084,'79084','Beauchemin / Mars',45.341374,-73.733997
 79085,'79085','Beauchemin / Mars',45.34158,-73.734049
 79086,'79086','Mercure / Côté',45.339232,-73.733776
 79089,'79089','St-Jean-Baptiste / Gaétan',45.312574,-73.744295
-79090,'79090','St-Jean-Baptiste Est / Place Raquepas',45.261945,-73.788844
+79090,'79090','St-Jean-Baptiste Est / Pl Raquepas',45.261945,-73.788844
 79091,'79091','St-Joseph / Desrosiers',45.257002,-73.795507
 79092,'79092','St-Joseph / Sylvestre',45.247082,-73.803181
 79100,'79100','Beauchemin / Beloeil',45.339972,-73.736769
@@ -117,7 +117,7 @@
 79138,'79138','St-Denis / Gaétan',45.310014,-73.735603
 79140,'79140','Vallée / Perron',45.308003,-73.734432
 79142,'79142','Vallée / Vallée-Dumouchel',45.306322,-73.729057
-79143,'79143','L’Église / Place Dubuc',45.305473,-73.72822
+79143,'79143','L’Église / Pl Dubuc',45.305473,-73.72822
 79144,'79144','L’Église / Bromont',45.306606,-73.731907
 79145,'79145','L’Église / St-Denis',45.308069,-73.736638
 79147,'79147','Reid / Plaines',45.307207,-73.738328
@@ -130,7 +130,7 @@
 79161,'79161','Marleau / Rossignols',45.317155,-73.753264
 79163,'79163','Perdrix / Lièvre',45.317594,-73.74703
 79164,'79164','Lièvre / Chevreuil',45.315779,-73.747871
-79165,'79165','Parc / Devant Le Centre Sportif Mercier',45.313091,-73.745844
+79165,'79165','Parc / Devant Le Ctr Sportif Mercier',45.313091,-73.745844
 79166,'79166','Parc / St-Jean-Baptiste',45.313664,-73.743648
 79167,'79167','Beauchemin / Bedford',45.339781,-73.737729
 79168,'79168','Beauchemin / Édouard-Laberge',45.338945,-73.741661
