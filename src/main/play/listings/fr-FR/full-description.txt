@@ -1,6 +1,6 @@
 Cette application ajoute les informations de l'autobus exo Haut-Saint-Laurent à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @exo_Sud sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_SO_HSL sur Twitter.
 
 exo Haut-Saint-Laurent dessert Huntington, Ormstown, Godmanchester, Howick, Très-Saint-Sacrement, Sainte-Martine et Mercier au Québec, Canada.
 
