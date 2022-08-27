@@ -1,6 +1,6 @@
 This application adds exo Haut-Saint-Laurent bus information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_SO_HSL on Twitter.
+This app contains the buses schedule and the latest news from @allo_exo and @exo_Sud on Twitter.
 
 exo Haut-Saint-Laurent serves Huntington, Ormstown, Godmanchester, Howick, Très-Saint-Sacrement, Sainte-Martine and Mercier in Québec, Canada.
 
