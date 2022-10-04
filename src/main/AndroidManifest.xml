@@ -1,6 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.mtransit.android.ca_haut_st_laurent_cithsl_bus"
     tools:ignore="MissingVersion" >
     <application
         android:allowBackup="true"
