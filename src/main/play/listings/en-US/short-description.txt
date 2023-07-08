@@ -1,2 +1,1 @@
-exo Haut-Saint-Laurent bus for MonTransit
-Schedules. News.
+exo Haut-Saint-Laurent buses for MonTransit. Schedule. Service Status. News.

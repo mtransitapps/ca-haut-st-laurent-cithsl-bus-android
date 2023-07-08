@@ -1,6 +1,6 @@
 This application adds exo Haut-Saint-Laurent bus information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_Sud on Twitter.
+This app provides the planned schedule as well as real time service statuses and the latest news from exo.quebec, @allo_exo and @exo_Sud on Twitter.
 
 exo Haut-Saint-Laurent serves Huntington, Ormstown, Godmanchester, Howick, Très-Saint-Sacrement, Sainte-Martine and Mercier in Québec, Canada.
 
@@ -22,4 +22,4 @@ exo Haut-Saint-Laurent was formerly known as RTM Haut-Saint-Laurent sector and C
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required for news from Twitter.
+- Other: required for real-time service statuses and to read news from exo.quebec and Twitter
